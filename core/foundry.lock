@@ -1,0 +1,14 @@
+{
+  "lib/governance": {
+    "rev": "360be6b5456128b20d643532c64d308374f50654"
+  },
+  "lib/openzeppelin-contracts": {
+    "branch": {
+      "name": "release-v5.3",
+      "rev": "9671043b3f0393a5d0e22bf70c2bfb19b931fe99"
+    }
+  },
+  "lib/solady": {
+    "rev": "5dd6f93498b8ebdc9d72194cfa680a90b738e1ad"
+  }
+}
